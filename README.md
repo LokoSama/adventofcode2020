@@ -9,4 +9,5 @@ In this repository, I will post my results everyday during Advent of code.
 At the moment, you only need to run ```node solution.js``` to use my code.
 
 ## Progress
-- [x] Day 1
+- [x] Day 1: Report repair
+- [x] Day 2: Password philosophy
